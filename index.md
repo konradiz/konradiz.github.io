@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Konrad Izykowski's Github Page
+Here you can find a brief summary of the projects I have on github, linked to their respective repositories, as well as some information about me.
 
-You can use the [editor on GitHub](https://github.com/konradiz/konradiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### [Beacon](https://github.com/konradiz/Beacon)
+Beacon is an Android app that allows users to spontaneously find events occuring near their location. On each event page users can find more information about the event, as well as comment and share photos. Beacon is meant to encourage people to see what is happening around them and join in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Desktop Launcher](https://zeyadtamimi.github.io/DesktopLauncher/)
+TODO finish linked page and add description
 
-### Markdown
+### [CPEN 331 OS161 repo](https://konradiz.github.io/)
+TODO add repo for CPEN 331 OS161 repo and add description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/konradiz/konradiz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### About Me
+- Find me on [LinkedIn](https://www.linkedin.com/in/konrad-izykowski-a0b403b4/)
+- Get to know me on [Instagram](https://www.instagram.com/konradizykowski/)
+- Take a closer look at my [Github](https://github.com/konradiz)
