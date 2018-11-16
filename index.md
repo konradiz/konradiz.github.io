@@ -18,6 +18,6 @@ TODO add repo for CPEN 331 OS161 repo and add description
 --->
 
 ### About Me
-- Find me on [LinkedIn](https://www.linkedin.com/in/konrad-izykowski-a0b403b4/)
+- Find me on [LinkedIn](https://www.linkedin.com/in/konrad-izykowski/)
 - Get to know me on [Instagram](https://www.instagram.com/konradizykowski/)
 - Take a closer look at my [GitHub](https://github.com/konradiz)
